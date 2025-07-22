@@ -1,166 +1,89 @@
-# ✨ Hi there, I'm Haoran Ji (季昊冉) 👋
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=AI+Enthusiast+%26+Developer;LLM+%26+NLP+Explorer;Building+the+Future+with+Code)](https://git.io/typing-svg)
-
+  <h1 style="font-weight: bold; border-bottom: none;">Haoran Ji (季昊冉)</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Enthusiast+%26+Developer;LLM+%26+NLP+Explorer;Building+the+Future+with+Code" alt="Typing SVG">
+  </a>
+  <p>
+    📍 Beijing, China | Final-Year CS Undergrad at <b>Beihang University</b>.
+    <br>
+    Passionate about building production-ready AI systems, specializing in <b>Large Language Models</b> & <b>Autonomous Agents</b>.
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/haoran-ji-b9994231b/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:jihaoran@buaa.edu.cn">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
 </div>
 
 ---
 
-## 🎯 About Me
+<details open align="center">
+<summary><h2>🚀 Featured Projects</h2></summary>
+<div align="left" style="width: 80%; margin: auto;">
+<br>
 
-<table>
-<tr>
-<td width="60%">
-
-### 👨‍🎓 Academic Journey
-- 🏛️ **Beihang University (BUAA)** - *Information and Computing Science*
-- 📚 **4th Grade Undergraduate** - Graduating Soon!
-- 🌆 **Hometown**: Shanghai, China 🇨🇳
-
-### 🔬 Research Interests
-- 🤖 **Large Language Models (LLM)**
-- 🎯 **AI Agents & Autonomous Systems**
-- 📝 **Natural Language Processing**
-- 🧠 **Machine Learning & Deep Learning**
-
-</td>
-<td width="40%">
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=666keke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" width="100%"/>
-</div>
-
-</td>
-</tr>
-</table>
+### <a href="https://github.com/666keke/distributed-pipeline-yolo">🔥 distributed-pipeline-yolo</a>
+*Production-ready distributed YOLO inference pipeline, powered by NVIDIA Triton Inference Server and orchestrated with Kubernetes.*
+<br>
+<code>Python</code> <code>Docker</code> <code>Kubernetes</code> <code>NVIDIA Triton</code>
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🎯 Production-Ready AI Systems
-
-</div>
-
-| 🏆 Project | 📝 Description | 🛠️ Tech Stack | 📊 Status |
-|:-----------|:---------------|:--------------|:----------|
-| **[🔥 distributed-pipeline-yolo](https://github.com/666keke/distributed-pipeline-yolo)** | 🚀 Production-ready distributed YOLO inference pipeline<br/>⚡ Powered by NVIDIA Triton Inference Server<br/>☸️ Kubernetes orchestration & Docker deployment | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟢 **Public** |
-| **[📊 Shanghai-Gaokao](https://github.com/666keke/Shanghai-Gaokao)** | 🎓 上海高考2020-2024年普通批次投档数据<br/>📈 Shanghai Gaokao admission data analysis<br/>🎯 University application assistance tool | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-FF6B6B?style=flat) | 🟢 **Public** |
-| **[🕸️ knowledge-graph-gen](https://github.com/666keke/knowledge-graph-gen)** | 🧠 知识图谱构建完整流程<br/>🔍 From data crawling to visualization<br/>📊 End-to-end knowledge graph pipeline | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Graph](https://img.shields.io/badge/-Graph%20DB-4CAF50?style=flat) | 🟢 **Public** |
-
-<div align="center">
-
-*🌟 **And many more!** Explore my repositories for additional projects, forks, and competition solutions*
-
-[![Explore More](https://img.shields.io/badge/🔍_Explore_More_Projects-2E86AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/666keke?tab=repositories)
-
-</div>
+### <a href="https://github.com/666keke/Shanghai-Gaokao">📊 Shanghai-Gaokao</a> — <a href="https://666keke.github.io/Shanghai-Gaokao/"><strong>Live Demo ↗</strong></a>
+*Data analysis and university application assistance tool for Shanghai's Gaokao admission data (2020-2024).*
+<br>
+<code>TypeScript</code> <code>Data Analysis</code> <code>Next.js</code>
 
 ---
 
-## 📈 GitHub Analytics
+### <a href="https://github.com/666keke/knowledge-graph-gen">🕸️ knowledge-graph-gen</a>
+*End-to-end pipeline for knowledge graph construction, from data crawling and NLP processing to graph database storage.*
+<br>
+<code>Python</code> <code>NLP</code> <code>Graph Database</code>
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=666keke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
-
-</td>
-<td width="50%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=666keke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</td>
-</tr>
-</table>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=666keke)](https://git.io/streak-stats)
-
+<br>
+<p align="center">
+  <a href="https://github.com/666keke?tab=repositories">
+    <b>Explore More Projects →</b>
+  </a>
+</p>
 </div>
+</details>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<details open align="center">
+<summary><h3>🛠️ Core Toolkit</h3></summary>
+<br>
+<p>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://isocpp.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
+  <a href="https://huggingface.co" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/></a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
+</p>
+</details>
+
+---
+
+<details open align="center">
+<summary><h3>📈 GitHub Analytics</h3></summary>
+<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=666keke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=666keke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=666keke&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak" />
+</details>
+
+<br>
 
 <div align="center">
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🤖 AI & ML Frameworks
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
-
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
-
----
-
-## 🌟 What Drives Me
-
-<div align="center">
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🚀 **Innovation**
-*Building practical AI systems that solve real-world problems*
-
-</td>
-<td width="33%" align="center">
-
-### 🤝 **Collaboration**
-*Always open to new ideas and exciting partnerships*
-
-</td>
-<td width="33%" align="center">
-
-### 📚 **Learning**
-*Constantly exploring cutting-edge technologies*
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 📬 Let's Connect!
-
-<div align="center">
-
-### 💌 Get In Touch
-
-[![Email](https://img.shields.io/badge/📧_jihaoran@buaa.edu.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jihaoran@buaa.edu.cn)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haoran-ji-b9994231b/)
-
-**🏛️ Beihang University, 100191 Beijing, China**
-
----
-
-### 🌟 **Found my work helpful?**
-
-<a href="https://github.com/666keke">
-<img src="https://img.shields.io/badge/⭐_Star_My_Projects-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star My Projects"/>
-</a>
-
-*Your support means the world to me! 🙏*
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <a href="https://github.com/666keke">
+    <img src="https://img.shields.io/badge/⭐_Star_My_Work-2E86AB?style=for-the-badge&logo=github&logoColor=white" alt="Star My Projects"/>
+  </a>
 </div>
